@@ -23,7 +23,7 @@ Esse erro pode acontecer por muitos motivos, mas na maioria das vezes é algum c
 Para resolver execute na pasta do seu projeto:
 
 ```sh
-cd android && gradlew clean cd .. && react-native run-android
+cd android && gradlew clean && cd .. && react-native run-android
 ```
 
 # iOS
